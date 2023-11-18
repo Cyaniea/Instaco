@@ -1,10 +1,10 @@
 # Insta_Copy
 
 ## Description
-This is application is a simple copy of Instagram, made with Python, HTML, and CSS.
-There are still some features that are non-functional like the Edit Profile (i cant find what is wrong with it, im sorry)
+This is an application made to be a simple copy of Instagram as a learning experience, made with Python, HTML, and CSS.
+There are still some non-functional features that will be fixed on a later date (ex:Edit Profile and Signup)
 
-## Installation
+# Installation
 1. Make sure you have Python3 on your device.
 2. Clone :
 
