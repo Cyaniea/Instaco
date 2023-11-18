@@ -9,12 +9,12 @@ There are still some features that are non-functional like the Edit Profile (i c
 2. Clone :
 
   ```bash
-  git clone git@github.com:ecutteI/Insta_Copy.git
+  git clone git@github.com:Cyaniea/Instaco.git
   ```
 3. Navigate to the project directory:
 
    ```bash
-   cd Insta-Copy
+   cd Instaco
    ```
 4. Create an environment:
 
